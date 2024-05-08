@@ -4,4 +4,4 @@ def promedio(numeros) :
     suma += num
   return suma / len(numeros)
 
-print(f"El promedio es: {promedio([1, 2, 3])}")
+print(f"El promedio de los números es: {promedio([1, 2, 3])}")
